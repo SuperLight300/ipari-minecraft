@@ -491,15 +491,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2023-10-03 12:33:23 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2023-10-03 12:35:06 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/misc/raw_gold": {
+  "minecraft:story/shiny_gear": {
     "criteria": {
-      "has_raw_gold_block": "2023-10-03 12:33:23 +0200"
+      "diamond_helmet": "2023-10-07 21:00:45 +0200"
     },
     "done": true
   },
